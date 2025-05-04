@@ -28,7 +28,8 @@ Este proyecto es una plataforma completa para la gestión de una biblioteca, inc
 
   python -m venv venv
 
-  venv\Scripts\activate
+  venv\Scripts\activate (windows)
+  source venv/bin/activate (Linux y OIs) 
 
   pip install -r requirements.txt
 
