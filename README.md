@@ -56,9 +56,9 @@ flask run
     Disponibilidad de libros
 
 # Autores
-* Anggelie Velásquez (221181)
-* Mia Alejandra Fuentes Mérida
-* Isabella Recinos
+* Anggelie Velásquez
+* Mia  Fuentes 
+* Isabella Obando
 
 Curso: Bases de Datos 1
 
